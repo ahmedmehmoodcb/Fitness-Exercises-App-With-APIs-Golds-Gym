@@ -7,7 +7,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 --- for full package
-npm install --legacy-peer-deps
+### `npm install --legacy-peer-deps`
 
 ### `npm start`
 
