@@ -1,8 +1,9 @@
-import React from 'react'
+import React, { useEffect, useState,} from 'react'
+import {Box, Botton, Stack, TextField, Typograpy} from '@mui/material'
 
 const SearchExercise = () => {
   return (
-    <div>SearchExercise</div>
+    <Stack>SearchExercise</Stack>
   )
 }
 
